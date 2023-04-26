@@ -5,3 +5,6 @@
 
 ## Запуск
 Для запуска скрипта требуется установить зависимости и выполнить файл downloader.py из папки gitea_hash_calculator.
+```
+python gitea_hash_calculator/downloader.py
+```
